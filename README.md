@@ -3,7 +3,7 @@
 ###
 
 <h2 align="left" style="font-size: 16px; font-weight: bold;">
-  My name is José, and I am a Spanish doctor with a keen interest in programming.
+  My name is José, and I am a doctor but my passion is the code.
 </h2>
 
 ###
