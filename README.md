@@ -3,18 +3,19 @@
 ###
 
 <h2 align="left" style="font-size: 16px; font-weight: bold;">
-  My name is José, and I am a doctor but my passion is the code.
+  My name is José, and I’m a junior developer passionate about learning and building.
 </h2>
 
 ###
 
-<h3 align="align="justify" style="font-size: 18px;">I am a internal medicine specialist with a great interest in programming. Maybe there aren’t many doctor-programmers in this world—is that an advantage? For me, curiosity is the driving force behind learning, and I am always looking for new ways to improve my knowledge. The internet is an infinite universe for self-learning, and I love exploring its possibilities.
-
-Additionally, I enjoy traveling and working at the same time, combining both passions. Perseverance is key in everything I do; if a problem arises, I always seek the simplest and most efficient solution to implement. Simplicity is a virtue, and I firmly believe that complexity doesn’t have to be complicated.</h3>
+<h3 align="justify" style="font-size: 18px;">
+  I'm a junior programmer on a journey to become a full stack developer, learning every day with the help of AI. Curiosity is the driving force behind everything I do. I’m constantly exploring new ways to improve my skills and solve real-world problems through code.<br><br>
+  The internet is an infinite space for self-learning, and I love diving into it. I enjoy combining my passion for programming with the freedom to work from anywhere. When I face a challenge, I always look for the most simple and efficient solution—because simplicity is powerful.
+</h3>
 
 ###
 
-<p align="left">✨ Creating things since 2024.<br>📚 I'm currently learning Python and SQL for data processing, JavaScript for web development, Machine Learning for AI applications, and HTML/CSS to enhance frontend design.<br>🎯 Goals:Invent code and create applications. Give back to the coding community that has helped me.<br>🎲 Fun fact: I'm a doctor who codes — maybe I should write a script to diagnose bugs!</p>
+<p align="left">✨ Creating things since 2024.<br>📚 I'm currently learning Python and SQL for data processing, JavaScript for web development, Machine Learning for AI projects, and HTML/CSS to improve frontend design.<br>🎯 Goals: Build useful apps and contribute to the coding community that has helped me so much.<br>🎲 Fun fact: I let AI review my code... most of the time it’s right!</p>
 
 ###
 
@@ -35,5 +36,3 @@ Additionally, I enjoy traveling and working at the same time, combining both pas
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="Machine Learning (TensorFlow) logo" />
 </div>
-
-###
